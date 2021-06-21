@@ -1,6 +1,6 @@
 from pytube import YouTube
 import re
-from FrameExtractor import FrameExtractor
+from modules.FrameExtractor import FrameExtractor
 
 class DownloadAndExtract():
     def __init__(self, video_url):
