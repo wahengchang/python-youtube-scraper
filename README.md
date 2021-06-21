@@ -23,3 +23,4 @@ urlList = [
 ```
 $ python3 main.py
 ```
+and the frames are extracted under the folder `./frames`
